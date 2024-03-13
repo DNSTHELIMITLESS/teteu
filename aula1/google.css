@@ -1,15 +1,18 @@
 body {
     text-align: center;
+    margin-top: -10px;
 }
 
 .barra {
     width: 500px;
     height: 30px;
     border-radius: 20px;
-    box-shadow:rgb(57, 57, 57);
+    box-shadow: 0px 0px 5px black;
     display: block;
     border: none;
+    margin-top: -10px;
     margin: 0 auto;
+    
 
     
 }
@@ -20,12 +23,12 @@ body img {
     
 }
 .googlesearch {
-    width: 90px;
+    width: 150px;
     height: 20px;
     margin-top: 20px;
 }
 .imfelling {
-    width: 90px;
+    width: 150px;
     height: 20px;
     margin-top: 20px;
 }
