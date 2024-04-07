@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Entre olhares</title>
+    <link rel="stylesheet" href="entreOlhares.css">
+</head>
+<body>
+    <div class="logoDoSite">
+        <p><a href="#">SINOPSE</a></p>
+        <p><a href="#">PERSONAGENS</a></p>
+        <p><a href="#">O PROJETO</a></p>
+        <p><a href="#">DOE AGORA</a></p>
+        <p><a href="#">EQUIPE</a></p>
+    </div>
+    
+    <div class="titulo">
+        <h1>ENTRE OLHARES</h1>
+        <button>ENTENDA O PROJETO</button>
+        <p>Financiamento coletivo</p>
+        <p>Crowdfunding</p>
+    </div>
+
+    <div class="texto2">
+        <p class="sinopse">SI</p>
+        <p class="sinopse">NO</p>
+        <p class="sinopse">PSE</p>
+        <p class="lorem">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi dolores harum voluptatem cum amet possimus adipisci, veniam accusamus maxime incidunt debitis asperiores voluptatum, laudantium non ullam excepturi assumenda vitae velit!</p>
+    </div>
+
+    <div class="quadros">
+        <img src="">
+        <h1>Nome</h1>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laudantium fuga, maiores incidunt enim atque quas nisi tempore blanditiis totam repellendus suscipit temporibus illum esse ex soluta saepe laborum ipsa nobis!</p>
+        <h1>Nome</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid quos optio eveniet laboriosam, laborum non? Atque provident quidem suscipit in. Vero fugiat dolorum, explicabo illum ab aspernatur maxime quas ut.</p>
+        <h1>Nome</h1>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita recusandae itaque delectus vitae sequi ipsa molestiae saepe eos. A nobis totam quis assumenda autem tenetur nihil repellat doloribus cumque eveniet!</p>
+    </div>
+</body>
+</html>
